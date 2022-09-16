@@ -7,7 +7,6 @@ const ContentFooter = () => {
 			<strong>2</strong>{" "}
 			items left
 		</span>
-
 		<ul className="filters">
 			<li>
 				<a href="#/" className="selected">All</a>
@@ -26,5 +25,6 @@ const ContentFooter = () => {
 	</footer>
   )
 }
+
 
 export default ContentFooter;
