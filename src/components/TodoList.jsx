@@ -23,7 +23,6 @@ function TodoList() {
 			</li>
 			))}
 			
-			
 		</ul>
   )
 }
